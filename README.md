@@ -1,7 +1,7 @@
 # Weather-React
 
-clone this repo git clone https://github.com/Warsame-Egal/Weather-React.git
-cd Weather-React
-npm install
+clone this repo git clone https://github.com/Warsame-Egal/Weather-React.git <br />
+cd Weather-React <br />
+npm install <br />
 npm start
 
