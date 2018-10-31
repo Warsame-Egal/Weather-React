@@ -7,6 +7,7 @@ npm start
 
 
 If you are using Visual Studio Code
-Navigate to the project folder
-VS Code temrinal type npm start
+Navigate to the project folder  <br />
+VS Code temrinal type  <br />
+npm start
 
