@@ -1,13 +1,4 @@
-# Weather-React
-
-clone this repo git clone https://github.com/Warsame-Egal/Weather-React.git <br />
-cd Weather-React <br />
-npm install <br />
-npm start
-
-
-If you are using Visual Studio Code
-Navigate to the project folder  <br />
-VS Code temrinal type  <br />
-npm start
-
+Weather app built with React
+<br />
+To begin the development, run `npm start`. <br />
+To create a production bundle, use `npm run build`.
